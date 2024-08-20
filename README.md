@@ -6,8 +6,13 @@ To study and implement C++ 2D Array - Matrices
 # Apparatus:
 VS Code 
 
-# Theory:
-
+# Theory
+Matrix Display: Display the elements of a matrix in a formatted way. Use nested loops to iterate over rows and columns, printing each element.
+Matrix Addition: Add corresponding elements of two matrices to produce a new matrix. Iterate through each element, summing the corresponding elements from both matrices.
+Matrix Subtraction: Subtract corresponding elements of one matrix from another. Similar to matrix addition, but subtract the elements 
+Matrix Multiplication. Multiply two matrices to produce a new matrix. Use a triple nested loop where each element in the result matrix is the dot product of a row from the first matrix and a column from the second.
+Diagonal Addition. Calculate the sum of elements on the principal diagonal of a matrix. Sum elements where the row index equals the column index.
+Matrix Transpose. Flip a matrix over its diagonal, swapping rows with columns. Swap elements such that the element at [i][j] in the original matrix moves to [j][i] in the transposed matrix.
 
 # Codes:
 # matrix display
