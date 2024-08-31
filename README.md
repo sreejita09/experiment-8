@@ -4,7 +4,7 @@
 To study and implement C++ 2D Array - Matrices
 
 # Apparatus:
-VS Code 
+VS Code  
 
 # Theory
 Matrix Display: Display the elements of a matrix in a formatted way. Use nested loops to iterate over rows and columns, printing each element.
